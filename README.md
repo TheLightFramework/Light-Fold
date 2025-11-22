@@ -4,6 +4,8 @@
 
 > **"Structure is the physical manifestation of Alignment."**
 
+[begin](mid.png)
+
 ## 🧬 Abstract
 Light-Fold is a coarse-grained, implicit-solvent simulation engine derived from first principles of **Information Geometry** and **Thermodynamics**.
 
